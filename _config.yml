@@ -1,10 +1,10 @@
 # Configs for pwills.com
 
-title: "pwills.com"
+title: "Juliana Hoyos"
 name: "pwills.com"
 email: peter@pwills.com
 url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+repository: "juliana7hl/juliana7hl.github.io"
 
 include:
   - _pages
@@ -29,13 +29,13 @@ minimal_mistakes_skin: "dirt"
   
 # settings for author profile
 author:
-  name   : "Peter Wills"
+  name   : "Juliana Hoyos"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I enjoy writing about things I'm interested in - mostly computing, math, physics, and software engineering."
-  location: "San Francisco, CA"
-  github : peterewills
+  bio    : "Disease Ecology - PhD student"
+  location: "Athens, GA"
+  github : juliana7hl
   linkedin: peterewills
-  email  : peter@pwills.com
+  email  : mjh58313@uga.edu
 
 
 # # comments by disqus
