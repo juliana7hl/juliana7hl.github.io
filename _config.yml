@@ -1,10 +1,10 @@
 # Configs for pwills.com
 
-title: "Juliana Hoyos"
+title: "pwills.com"
 name: "pwills.com"
 email: peter@pwills.com
 url: "http://www.pwills.com"
-repository: "juliana7hl/juliana7hl.github.io"
+repository: "peterewills/peterewills.github.io"
 
 include:
   - _pages
