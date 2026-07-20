@@ -12,7 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Juliana Hoyos / juliana7hl"
 title_separator          : "-"
 name                     : &name "Juliana Hoyos"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Disease ecologist studying vector-borne diseases, landscape ecology, and spatial epidemiology"
+
 url: "https://juliana7hl.github.io"
 baseurl: ""
 repository: "juliana7hl/juliana7hl.github.io"
@@ -25,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Juliana Hoyos"
   pronouns         : "she/her/ella"  
-  bio              : "Short biography for the left-hand sidebar"
-  employer         : "Red Brick University"
+  bio              : "Disease ecologist and GHES Fellow at Yale University and CIDEIM."
+  employer         : "Yale University and CIDEIM"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "julianah.2108@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -49,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "juliana7hl"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -219,7 +220,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
